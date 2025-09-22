@@ -78,7 +78,7 @@ I was tasked with blocking non-IT users from accessing the Control Panel. To acc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-The next task was to ensure that workstations and servers automatically lock their screens after 5 minutes of user inactivity to prevent unattended sessions from being exploited. I created a new GPO, configured the security settings to enforce a 5-minute inactivity timeout, and linked the GPO to the root domain so it applied to all computers. This hands-on experience highlighted how policies can enhance security by reducing the risk of unauthorized access in a corporate environment.
+The next task was to ensure that workstations and servers automatically lock their screens after 5 minutes of user inactivity to prevent unattended sessions from being exploited. I created a new GPO, configured the security settings to enforce a 5-minute inactivity timeout, and linked the GPO to the root domain so it applied to all computers. This highlighted how policies can enhance security by reducing the risk of unauthorized access in a corporate environment.
 
 
 <img width="548" height="462" alt="Screenshot 2025-09-20 184356" src="https://github.com/user-attachments/assets/ef174f92-b25b-438c-a244-0c89e1146e14" />
